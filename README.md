@@ -13,9 +13,7 @@ Game documentation:
 
 Teachers can edit and add words to class decks.
 
-Utilize teacher 1 and student 1 class 1 sample login.
-
-Utilize teacher 2 and student login for sample class login.
+Utilize teacher and student sample logins.
 
 
 
