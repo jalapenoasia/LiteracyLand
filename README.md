@@ -7,7 +7,7 @@ To install app:
 2. Extract Files
 3. Click [LiteracyLand] in files.
 4. If computer is protected, click more info
-5. then click open anyway
+5. Then click open/run anyway
 
 Game documentation:
 
