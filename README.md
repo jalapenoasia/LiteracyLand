@@ -3,7 +3,7 @@ FBLA 2023 SLC Computer Game Simulation &amp; Programming Submission
 
 To install app:
 
-1. Download Windows Build.zip
+1. Download WindowsSLCBuild.zip
 2. Extract Files
 3. Click [LiteracyLand] in files.
 4. If computer is protected, click more info
